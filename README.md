@@ -10,22 +10,7 @@
     <a href="https://GitHub.com/AleoHQ/snarkOS"><img src="https://img.shields.io/badge/contributors-59-ee8449"/></a>
 </p>
 
-## <a name='TableofContents'></a>Table of Contents
 
-* [1. Overview](#1-overview)
-* [2. Build Guide](#2-build-guide)
-  * [2.1 Requirements](#21-requirements)
-  * [2.2 Installation](#22-installation)
-* [3. Run an Aleo Node](#3-run-an-aleo-node)
-  * [3a. Run an Aleo Client](#3a-run-an-aleo-client)
-  * [3b. Run an Aleo Prover](#3b-run-an-aleo-prover)
-* [4. FAQs](#4-faqs)
-* [5. Command Line Interface](#5-command-line-interface)
-* [6. Development Guide](#6-development-guide)
-  * [6.1 Quick Start](#61-quick-start)
-  * [6.2 Operations](#62-operations)
-* [7. Contributors](#7-contributors)
-* [8. License](#8-license)
 
 [comment]: <> (* [4. JSON-RPC Interface]&#40;#4-json-rpc-interface&#41;)
 [comment]: <> (* [5. Additional Information]&#40;#5-additional-information&#41;)
